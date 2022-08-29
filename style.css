@@ -1,0 +1,30 @@
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin-top: 0px;
+}
+
+.start{
+    font-size: 20px;
+    width: 10%;
+}
+
+.copy_right_footer{
+    text-align: center;
+    bottom: 0;
+    background-color: antiquewhite;
+    position: fixed;
+    width: 99.9999%;
+    line-height: 2;
+}
+
+canvas{
+    border: 3px solid white;
+    border-radius: 12px;
+    box-shadow: 4px 4px 4px dodgerblue;
+    margin-top: 100px;
+}
